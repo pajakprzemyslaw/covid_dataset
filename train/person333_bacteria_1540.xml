@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PNEUMONIA</folder>
+	<filename>person333_bacteria_1540.jpeg</filename>
+	<path>/home/przemek/Desktop/trenowanie/TensorFlow-2.x-YOLOv3-master/covid_dataset/train/PNEUMONIA/person333_bacteria_1540.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1504</width>
+		<height>1180</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>covid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>112</ymin>
+			<xmax>1307</xmax>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NORMAL</folder>
+	<filename>NORMAL2-IM-0535-0001.jpeg</filename>
+	<path>/home/przemek/Desktop/trenowanie/TensorFlow-2.x-YOLOv3-master/covid_dataset/train/NORMAL/NORMAL2-IM-0535-0001.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1682</width>
+		<height>1519</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non-covid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>371</ymin>
+			<xmax>1528</xmax>
+			<ymax>1373</ymax>
+		</bndbox>
+	</object>
+</annotation>
